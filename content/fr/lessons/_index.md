@@ -1,7 +1,7 @@
 ---
 title: Index des leçons
 # layout: blank
-url: /fr/lecons/
+url: lecons
 original: lessons
 ---
 

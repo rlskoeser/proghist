@@ -1,6 +1,7 @@
 ---
 title: Lesson Directory
 translationKey: lessons
+url: lessons
 # permalink: /en/lessons/
 # redirect_from: /lessons/
 ---

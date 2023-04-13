@@ -1,7 +1,7 @@
 ---
 title: Índice de Lições
 # layout: blank
-url: /pt/licoes/
+url: licoes
 original: lessons
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Índice de lecciones
 #layout: blank
-url: /es/lecciones/
+url: lecciones
 original: lessons
 ---
 
