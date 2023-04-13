@@ -1,6 +1,7 @@
 ---
 title: Contagem de Frequências de Palavras com Python
 layout: lesson
+translationKey: counting-frequencies
 slug: contar-frequencias-palavras-python
 date: 2012-07-17
 translation_date: 2022-01-13

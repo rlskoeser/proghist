@@ -1,6 +1,5 @@
 ---
 title: Lesson Retirement Policy
-layout: blank
 redirect_from: /lesson-retirement-policy
 ---
 

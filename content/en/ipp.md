@@ -1,5 +1,4 @@
 ---
-layout: blank
 title: Institutional Partnership Programme
 redirect_from: /ipp
 

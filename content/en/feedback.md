@@ -1,7 +1,6 @@
 ---
 title: Report a bug
 date: 16-07-2021
-layout: blank
 redirect_from:
  - /report-issue.html
  - /feedback

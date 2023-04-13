@@ -1,5 +1,4 @@
 ---
-layout: base
 title: The Programming Historian
 ---
 <div class="container" style="text-align:center">

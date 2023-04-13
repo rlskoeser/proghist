@@ -1,6 +1,7 @@
 ---
 title: Índice de lecciones
-layout: blank
+translationKey: lessons
+#layout: blank
 permalink: /es/lecciones/
 original: lessons
 ---

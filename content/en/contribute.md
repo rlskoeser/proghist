@@ -1,6 +1,5 @@
 ---
 title: Contribute to the Programming Historian
-layout: blank
 redirect_from: /contribute
 ---
 

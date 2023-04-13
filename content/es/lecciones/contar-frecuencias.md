@@ -1,5 +1,6 @@
 ---
 title: Contar frecuencias de palabras con Python
+translationKey: counting-frequencies
 authors:
 - William J. Turkel
 - Adam Crymble

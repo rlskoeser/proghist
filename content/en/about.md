@@ -1,7 +1,5 @@
 ---
-layout: blank
 title: About the Programming Historian
-redirect_from: /about
 ---
 
 # About the _Programming Historian_

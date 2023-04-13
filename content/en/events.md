@@ -1,6 +1,5 @@
 ---
 title: Events
-layout: blank
 redirect_from: /events
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Lessons published in partnership with Jisc and The National Archives
-layout: blank
 redirect_from: /jisc-tna-partnership
 ---
 

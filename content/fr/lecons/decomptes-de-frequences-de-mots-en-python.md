@@ -2,6 +2,7 @@
 title: "Décomptes d'occurrences de mots en Python"
 slug: decomptes-occurrences-de-mots-en-python
 original: counting-frequencies
+translationKey: counting-frequencies
 layout: lesson
 collection: lessons
 date: 2012-07-17

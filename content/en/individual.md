@@ -1,5 +1,4 @@
 ---
-layout: blank
 title: Individual Supporters
 redirect_from:
 - individual

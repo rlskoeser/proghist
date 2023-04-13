@@ -1,5 +1,6 @@
 ---
 title: Counting Word Frequencies with Python
+translationKey: counting-frequencies
 layout: lesson
 date: 2012-07-17
 authors:
@@ -24,9 +25,9 @@ python_warning: false
 redirect_from: /lessons/counting-frequencies
 avatar_alt: Disgruntled man sitting on a log surrounded by birds
 doi: 10.46430/phen0003
+toc: true
 ---
 
-{% include toc.html %}
 
 
 
