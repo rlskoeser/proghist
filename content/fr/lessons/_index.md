@@ -1,8 +1,7 @@
 ---
 title: Index des leçons
-translationKey: lessons
 # layout: blank
-permalink: /fr/lecons/
+url: /fr/lecons/
 original: lessons
 ---
 

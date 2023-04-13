@@ -1,9 +1,8 @@
 ---
 title: Índice de Lições
 # layout: blank
-permalink: /pt/licoes/
+url: /pt/licoes/
 original: lessons
-translationKey: lessons
 ---
 
 # Índice de Lições

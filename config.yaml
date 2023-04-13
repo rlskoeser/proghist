@@ -1,4 +1,4 @@
-baseURL: 'http://example.org/'
+baseURL: 'https://rlskoeser.github.io/proghist/'
 # languageCode: 'en-us'
 title: 'Programming Historian'
 theme: 'ananke'
@@ -9,6 +9,10 @@ markup:
   goldmark:
     renderer:
       unsafe: true   # allow raw html in content
+
+params:
+  mainSections:
+  - lessons
 
 
 defaultContentLanguageInSubdir: true
@@ -26,3 +30,13 @@ languages:
     title: O Programming Historian em português
     contentDir: content/pt
 
+
+outputFormats:
+  SearchIndex:
+    mediaType: "application/json"
+    baseName: "searchindex"
+    isPlainText: true
+    notAlternative: true
+
+outputs:
+  home: ["HTML","RSS", "SearchIndex"]

@@ -1,8 +1,7 @@
 ---
 title: Índice de lecciones
-translationKey: lessons
 #layout: blank
-permalink: /es/lecciones/
+url: /es/lecciones/
 original: lessons
 ---
 
