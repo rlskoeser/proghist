@@ -1,0 +1,28 @@
+baseURL: 'http://example.org/'
+# languageCode: 'en-us'
+title: 'Programming Historian'
+theme: 'ananke'
+
+
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true   # allow raw html in content
+
+
+defaultContentLanguageInSubdir: true
+languages:
+  en:
+    title: The Programming Historian
+    contentDir: content/en
+  fr:
+    title: The Programming Historian en français
+    contentDir: content/fr
+  es:
+    title: The Programming Historian en español
+    contentDir: content/es
+  pt:
+    title: O Programming Historian em português
+    contentDir: content/pt
+
